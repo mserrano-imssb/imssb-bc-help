@@ -19,7 +19,7 @@ tags:
 
 ---
 
-## 🔹 2. Sobre existencias
+## 🔹 2. Existencias / CPM
 
 ### ❓ ¿Las existencias que veo son de almacén?
 
@@ -60,16 +60,20 @@ pero **no sustituye el abastecimiento desde almacén**.
     - Desfase entre reportes
 
 👉 Úsala como **referencia**, no como dato absoluto.
----
-❓ ¿Por qué el CPM que muestra la herramienta no coincide con el que maneja mi unidad?
+
+---
+
+### ❓ ¿Por qué el CPM que muestra la herramienta no coincide con el que maneja mi unidad?
 
 **R=)** El CPM mostrado en la herramienta es una referencia operativa basada en la información disponible, pero puede diferir del CPM que maneja la unidad debido a:
 
 - Diferencias en fuentes de información
 - Actualizaciones recientes no reflejadas aún
 - Ajustes locales o criterios específicos de la unidad
--﻿--
-❓ ¿Por qué al seleccionar tipo de insumo (medicamento / material de curación) se muestran claves mezcladas y tengo que ajustar el Excel?
+
+---
+
+### ❓ ¿Por qué al seleccionar tipo de insumo (medicamento / material de curación) se muestran claves mezcladas y tengo que ajustar el Excel?
 
 R=) Actualmente, el comportamiento de la herramienta permite visualizar un catálogo más amplio que puede incluir ambos tipos de insumo.
 
@@ -335,7 +339,8 @@ La herramienta solo:
 
 ---
 
-## 🔹 13. Sobre el estado actual de la herramienta3
+## 🔹 13. Sobre el estado actual de la herramienta
+3
 
 ### ❓ ¿Ya es un sistema oficial?
 
