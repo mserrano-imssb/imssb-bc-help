@@ -60,6 +60,20 @@ pero **no sustituye el abastecimiento desde almacén**.
     - Desfase entre reportes
 
 👉 Úsala como **referencia**, no como dato absoluto.
+---
+❓ ¿Por qué el CPM que muestra la herramienta no coincide con el que maneja mi unidad?
+
+**R=)** El CPM mostrado en la herramienta es una referencia operativa basada en la información disponible, pero puede diferir del CPM que maneja la unidad debido a:
+
+- Diferencias en fuentes de información
+- Actualizaciones recientes no reflejadas aún
+- Ajustes locales o criterios específicos de la unidad
+-﻿--
+❓ ¿Por qué al seleccionar tipo de insumo (medicamento / material de curación) se muestran claves mezcladas y tengo que ajustar el Excel?
+
+R=) Actualmente, el comportamiento de la herramienta permite visualizar un catálogo más amplio que puede incluir ambos tipos de insumo.
+
+👉 Esto es un área de mejora ya identificada.
 
 ---
 
