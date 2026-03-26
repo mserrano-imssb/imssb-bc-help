@@ -321,7 +321,7 @@ La herramienta solo:
 
 ---
 
-## 🔹 XX. Sobre el estado actual de la herramienta
+## 🔹 13. Sobre el estado actual de la herramienta3
 
 ### ❓ ¿Ya es un sistema oficial?
 
@@ -345,7 +345,7 @@ Actualmente se está trabajando en:
 
 ---
 
-## 🔹 XX. Soporte y capacitación
+## 🔹 14. Soporte y capacitación
 
 ### ❓ ¿Habrá apoyo para usarla?
 
